@@ -1,0 +1,10 @@
+C:\Users\akhob\source\repos\C#Programming\Form1\bin\Debug\Form1.exe.config
+C:\Users\akhob\source\repos\C#Programming\Form1\bin\Debug\Form1.exe
+C:\Users\akhob\source\repos\C#Programming\Form1\bin\Debug\Form1.pdb
+C:\Users\akhob\source\repos\C#Programming\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\akhob\source\repos\C#Programming\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\akhob\source\repos\C#Programming\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\akhob\source\repos\C#Programming\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\akhob\source\repos\C#Programming\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\akhob\source\repos\C#Programming\Form1\obj\Debug\Form1.exe
+C:\Users\akhob\source\repos\C#Programming\Form1\obj\Debug\Form1.pdb

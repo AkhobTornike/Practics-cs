@@ -1,0 +1,14 @@
+C:\Users\akhob\source\repos\C#Programming\C#Programming\bin\Debug\net7.0\C#Programming.exe
+C:\Users\akhob\source\repos\C#Programming\C#Programming\bin\Debug\net7.0\C#Programming.deps.json
+C:\Users\akhob\source\repos\C#Programming\C#Programming\bin\Debug\net7.0\C#Programming.runtimeconfig.json
+C:\Users\akhob\source\repos\C#Programming\C#Programming\bin\Debug\net7.0\C#Programming.dll
+C:\Users\akhob\source\repos\C#Programming\C#Programming\bin\Debug\net7.0\C#Programming.pdb
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\C#Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\C#Programming.AssemblyInfoInputs.cache
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\C#Programming.AssemblyInfo.cs
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\C#Programming.csproj.CoreCompileInputs.cache
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\C#Programming.dll
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\refint\C#Programming.dll
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\C#Programming.pdb
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\C#Programming.genruntimeconfig.cache
+C:\Users\akhob\source\repos\C#Programming\C#Programming\obj\Debug\net7.0\ref\C#Programming.dll
