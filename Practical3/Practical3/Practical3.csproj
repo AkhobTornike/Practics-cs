@@ -43,13 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Classes\ChildTriangle.cs" />
-    <Compile Include="Classes\Figura.cs" />
-    <Compile Include="Classes\Kvadrati.cs" />
-    <Compile Include="Classes\Samkutxedi.cs" />
-    <Compile Include="Classes\Triangle.cs" />
-    <Compile Include="Classes\TriangleChild.cs" />
-    <Compile Include="Classes\TriangleParrent.cs" />
+    <Compile Include="Classes\7.1.1\ChildTriangle.cs" />
+    <Compile Include="Classes\7.2.1\Figura.cs" />
+    <Compile Include="Classes\7.2.1\Kvadrati.cs" />
+    <Compile Include="Classes\7.4.1\Phigure.cs" />
+    <Compile Include="Classes\7.4.1\Rectangle.cs" />
+    <Compile Include="Classes\7.2.1\Samkutxedi.cs" />
+    <Compile Include="Classes\7.4.1\Shape.cs" />
+    <Compile Include="Classes\7.4.1\Square.cs" />
+    <Compile Include="Classes\7.1.1\Triangle.cs" />
+    <Compile Include="Classes\7.3.1\TriangleChild.cs" />
+    <Compile Include="Classes\7.3.1\TriangleParrent.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -34,11 +34,11 @@ namespace Practical3
                 $"\nPerimeter => {perimeter3};\n");
 
             // work 7.2.1
-            Kvadrati kvadrati = new Kvadrati(5, 7);
+            Kvadrati kvadrati = new Kvadrati(5,7);
 
             int area = kvadrati.rectangleArea();
 
-            Samkutxedi samkutxedi = new Samkutxedi(6, 7, 10);
+            Samkutxedi samkutxedi = new Samkutxedi(6,7,10);
 
             int perimeter = samkutxedi.trianglePerimeter();
 
@@ -65,8 +65,17 @@ namespace Practical3
 
             Console.WriteLine(value: $"perimeter of parent triangle is {childTriangle.ParrentPerimeter()};");
             Console.WriteLine(value: $"perimeter of child triangle is {childTriangle.ChildPerimeter()};");
+            
+            // work 7.4.1
+            Phigure phig = new Phigure(4,6,5,6);
 
+            Rectangle rec = new Rectangle(7, 6);
 
+            Square square = new Square(5);
+
+            Console.WriteLine($"perimeter of Phigure is {phig.Perimeter()};" +
+                $"\nPerimeter of Rectangle is {rec.Perimeter()};" +
+                $"\nPerimeter of Square is {square.Perimeter()};\n");
         }
     }
 }
