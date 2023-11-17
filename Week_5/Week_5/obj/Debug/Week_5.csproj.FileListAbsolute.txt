@@ -1,0 +1,7 @@
+C:\Users\akhob\source\repos\Week_5\Week_5\bin\Debug\Week_5.exe.config
+C:\Users\akhob\source\repos\Week_5\Week_5\bin\Debug\Week_5.exe
+C:\Users\akhob\source\repos\Week_5\Week_5\bin\Debug\Week_5.pdb
+C:\Users\akhob\source\repos\Week_5\Week_5\obj\Debug\Week_5.csproj.AssemblyReference.cache
+C:\Users\akhob\source\repos\Week_5\Week_5\obj\Debug\Week_5.csproj.CoreCompileInputs.cache
+C:\Users\akhob\source\repos\Week_5\Week_5\obj\Debug\Week_5.exe
+C:\Users\akhob\source\repos\Week_5\Week_5\obj\Debug\Week_5.pdb
