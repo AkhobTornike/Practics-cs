@@ -1,0 +1,7 @@
+C:\Users\akhob\source\repos\ClasWork\ClasWork\bin\Debug\ClasWork.exe.config
+C:\Users\akhob\source\repos\ClasWork\ClasWork\bin\Debug\ClasWork.exe
+C:\Users\akhob\source\repos\ClasWork\ClasWork\bin\Debug\ClasWork.pdb
+C:\Users\akhob\source\repos\ClasWork\ClasWork\obj\Debug\ClasWork.csproj.AssemblyReference.cache
+C:\Users\akhob\source\repos\ClasWork\ClasWork\obj\Debug\ClasWork.csproj.CoreCompileInputs.cache
+C:\Users\akhob\source\repos\ClasWork\ClasWork\obj\Debug\ClasWork.exe
+C:\Users\akhob\source\repos\ClasWork\ClasWork\obj\Debug\ClasWork.pdb
