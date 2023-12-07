@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <StudentId>1</StudentId>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <Age>20</Age>
+  </Student>
+  <Student>
+    <StudentId>2</StudentId>
+    <FirstName>Jane</FirstName>
+    <LastName>Smith</LastName>
+    <Age>22</Age>
+  </Student>
+  <Student>
+    <StudentId>3</StudentId>
+    <FirstName>Bob</FirstName>
+    <LastName>Johnson</LastName>
+    <Age>21</Age>
+  </Student>
+</ArrayOfStudent>
