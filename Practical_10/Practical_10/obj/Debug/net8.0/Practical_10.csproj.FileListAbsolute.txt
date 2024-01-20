@@ -1,0 +1,14 @@
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\Practical_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\Practical_10.AssemblyInfoInputs.cache
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\Practical_10.AssemblyInfo.cs
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\Practical_10.csproj.CoreCompileInputs.cache
+C:\Users\Toko\source\repos\Practical_10\Practical_10\bin\Debug\net8.0\Practical_10.exe
+C:\Users\Toko\source\repos\Practical_10\Practical_10\bin\Debug\net8.0\Practical_10.deps.json
+C:\Users\Toko\source\repos\Practical_10\Practical_10\bin\Debug\net8.0\Practical_10.runtimeconfig.json
+C:\Users\Toko\source\repos\Practical_10\Practical_10\bin\Debug\net8.0\Practical_10.dll
+C:\Users\Toko\source\repos\Practical_10\Practical_10\bin\Debug\net8.0\Practical_10.pdb
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\Practical_10.dll
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\refint\Practical_10.dll
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\Practical_10.pdb
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\Practical_10.genruntimeconfig.cache
+C:\Users\Toko\source\repos\Practical_10\Practical_10\obj\Debug\net8.0\ref\Practical_10.dll
